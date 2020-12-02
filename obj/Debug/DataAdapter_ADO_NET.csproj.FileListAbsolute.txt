@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\bin\Debug\DataAdapter_ADO_NET.exe.config
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\bin\Debug\DataAdapter_ADO_NET.exe
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\bin\Debug\DataAdapter_ADO_NET.pdb
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\obj\Debug\DataAdapter_ADO_NET.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\obj\Debug\DataAdapter_ADO_NET.Form1.resources
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\obj\Debug\DataAdapter_ADO_NET.Properties.Resources.resources
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\obj\Debug\DataAdapter_ADO_NET.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\obj\Debug\DataAdapter_ADO_NET.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\obj\Debug\DataAdapter_ADO_NET.exe
+C:\Users\User\source\repos\WinForms_GridView1.1\DataAdapter_ADO_NET\obj\Debug\DataAdapter_ADO_NET.pdb
